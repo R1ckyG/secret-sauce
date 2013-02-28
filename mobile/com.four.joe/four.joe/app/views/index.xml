@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+	
+	<!--header-->
+	<View id="profile-header">
+		<Label id="title">My Profile</Label>
+	</View>
+  <Require src="student-info"/>
+	
+	</Window>
+</Alloy>
